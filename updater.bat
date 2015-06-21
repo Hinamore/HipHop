@@ -1,4 +1,5 @@
 @echo off
+::succes v2
 title hide updater
 color 0a
 cls
